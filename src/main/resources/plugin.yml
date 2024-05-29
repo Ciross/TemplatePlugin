@@ -1,0 +1,6 @@
+name: TemplatePlugin
+version: 0.0.1
+main: me.ciross.template.TemplatePlugin
+
+# 1.13 here to maximize backward compatibility
+api-version: 1.13
